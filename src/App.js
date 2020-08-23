@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload by Subhashree  Web Site     
         </p>
         <p>
-           Modified  one more line in feature brach
+           Modified  one more line in master  branch
         </p>
         <a
           className="App-link"

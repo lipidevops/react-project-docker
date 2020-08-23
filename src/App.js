@@ -12,10 +12,10 @@ function App() {
         </p>
         <p>
            Modified  one more line in my feature  branch
-        </P>
-        <p>
-           Modified second line in my feature branch
         </p>
+        <p>
+           Modified second line in staging branch
+        </p>       
         <a
           className="App-link"
           href="https://reactjs.org"
